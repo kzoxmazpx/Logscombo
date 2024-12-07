@@ -1,13 +1,9 @@
-# Extractor logs fast
+# Extractor Logs Fast
 
-I present to you the fastest extract logs a extract and a make combo.
+I present to you the fastest extract logs, an extract and a make combo.
 
 ## Update
 
+## Video
 
-
-## Screenshot
-
-![Vidéo](video.mp4)
-
-![Screen](image.png)
+[![Vidéo](image.png)](video.mp4)
